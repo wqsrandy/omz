@@ -9,4 +9,4 @@ logs/
 **/dump.rdb
 **/.DS_Store
 cache/
-!nop
+!cache/nop
